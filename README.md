@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/8o6gDNt.png">
+<img src="https://imgur.com/V56ovqF.png">
 
 
 # Note

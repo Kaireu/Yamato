@@ -1,5 +1,5 @@
 <img src="https://imgur.com/V56ovqF.png">
-
+          <img src="https://discordbots.org/api/widget/447401156394876950.svg">
 
 # Note
 Yamato's wiki can be found at <a href = "https://github.com/Kaireu/Yamato/wiki"> Wiki 

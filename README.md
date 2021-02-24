@@ -1,4 +1,4 @@
-<img src="https://imgur.com/V56ovqF.png">
+<img src="https://i.imgur.com/AXBj9MQ.png">
           <img src="https://discordbots.org/api/widget/447401156394876950.svg">
 
 # Note

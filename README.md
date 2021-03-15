@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/AXBj9MQ.png">
-The ShipGirl Project; Yamato. #(c) Kancolle for Yamato.
+The ShipGirl Project; Yamato. ##(c) Kancolle for Yamato.
 
 <center><img src="https://discordbots.org/api/widget/447401156394876950.svg"></center>
 
